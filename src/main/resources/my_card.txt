@@ -1,0 +1,13 @@
+STAGE1
+Dewgong
+120
+WATER
+-
+W / SwimFreely / 10 / 2 / FloeReturn / 40
+LIGHTNING
+-
+2
+Aquapolis
+F
+Ермакова / Алена / Денисовна / БСБО-06-23
+87
